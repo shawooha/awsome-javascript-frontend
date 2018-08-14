@@ -18,6 +18,8 @@
 ## JavaScript Framework (my choice)
 - https://reactjs.org/ | React
 - https://vuejs.org/ | Vue
+- https://hyperapp.js.org/ | Hyperapp
+- https://svelte.technology/ | Svelte
 
 ## JavaScript UI components
 - https://datatables.net/ | Table plugin for jQuery
@@ -28,6 +30,13 @@
 - https://lodash.com/ | Lodash (objects/arrays/data)
 - https://momentjs.com/ | Moment (date/time)
 - http://www.chartjs.org/ | Chart.js (canvas charts)
+
+## Useful jQuery plugins
+
+Plugin for jQuery to generate sparkline charts directly in the web browser https://omnipotent.net/jquery.sparkline/#s-about
+
+Nicescroll jQuery Plugin – jQuery plugin for custom scrollbars on desktop and mobile browsers
+https://nicescroll.areaaperta.com/
 
 ## Learning
 - https://monsterlessons.com/ | Monster lessons
@@ -43,3 +52,6 @@
 - https://boostnote.io/ | Notes software for developers
 
 ## Articles
+### JavaScript
+
+Demystifying DateTime Manipulation in JavaScript | Toptal https://www.toptal.com/software/definitive-guide-to-datetime-manipulation
