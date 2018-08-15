@@ -12,8 +12,10 @@
 - https://bulma.io/ | CSS Framework
 - https://semantic-ui.com/ | Semantic UI (CSS + jQuery)
 - http://getbootstrap.com/ | Bootstrap
-
 - https://sass-lang.com/ | SASS (css preprocessor)
+- https://materializecss.com/ | A modern responsive front-end framework based on Material Design
+- https://www.w3schools.com/w3css/default.asp | W3.CSS simple responsive CSS framework
+- https://html5boilerplate.com/ | The web’s most popular front-end template
 
 ## JavaScript Framework (my choice)
 - https://reactjs.org/ | React
@@ -30,6 +32,7 @@
 - https://lodash.com/ | Lodash (objects/arrays/data)
 - https://momentjs.com/ | Moment (date/time)
 - http://www.chartjs.org/ | Chart.js (canvas charts)
+- https://p5js.org/ | Visualisation library
 
 ## Useful jQuery plugins
 
