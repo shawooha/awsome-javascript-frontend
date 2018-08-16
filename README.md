@@ -50,6 +50,7 @@ https://nicescroll.areaaperta.com/
 - https://www.dyclassroom.com/
 - https://www.codecademy.com/tracks/javascript
 - https://www.khanacademy.org/computing/computer-programming
+- https://www.youtube.com/user/LevelUpTuts/playlists
 
 ## Productivity
 - https://boostnote.io/ | Notes software for developers
