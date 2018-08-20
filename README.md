@@ -8,6 +8,10 @@
 - https://code.visualstudio.com/ | Visual Studio Code
 - https://atom.io/ | Atom
 
+## Code and make examples online
+- https://codepen.io/ | CodePen
+- http://jsfiddle.net/ | JSFiddle
+
 ## CSS/HTML
 - https://bulma.io/ | CSS Framework
 - https://semantic-ui.com/ | Semantic UI (CSS + jQuery)
@@ -42,11 +46,11 @@ Nicescroll jQuery Plugin – jQuery plugin for custom scrollbars on desktop and 
 https://nicescroll.areaaperta.com/
 
 ## Learning
-- https://monsterlessons.com/ | Monster lessons
+- https://monsterlessons.com/ | Monster lessons (rus)
 - https://www.w3schools.com/ | W3Schools
 - https://www.freecodecamp.org | Free Code Camp
 - https://ru.hexlet.io/ | Hexlet
-- https://stepik.org/catalog?verb | Stepik
+- https://stepik.org/catalog?verb | Stepik (rus)
 - https://www.dyclassroom.com/
 - https://www.codecademy.com/tracks/javascript
 - https://www.khanacademy.org/computing/computer-programming
