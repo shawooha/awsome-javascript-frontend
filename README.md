@@ -20,6 +20,9 @@
 - https://materializecss.com/ | A modern responsive front-end framework based on Material Design
 - https://www.w3schools.com/w3css/default.asp | W3.CSS simple responsive CSS framework
 - https://html5boilerplate.com/ | The web’s most popular front-end template
+- https://www.muicss.com/ | MUI - Material Design CSS Framework
+- https://material-ui.com/
+- https://getmdl.io/
 
 ## JavaScript Framework (my choice)
 - https://reactjs.org/ | React
@@ -37,6 +40,7 @@
 - https://momentjs.com/ | Moment (date/time)
 - http://www.chartjs.org/ | Chart.js (canvas charts)
 - https://p5js.org/ | Visualisation library
+- https://prismjs.com/ | code highlight
 
 ## Useful jQuery plugins
 
