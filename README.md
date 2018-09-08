@@ -59,6 +59,7 @@ https://nicescroll.areaaperta.com/
 - https://www.codecademy.com/tracks/javascript
 - https://www.khanacademy.org/computing/computer-programming
 - https://www.youtube.com/user/LevelUpTuts/playlists
+- https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ | freecodecamp youtube channel (lots of useful videos)
 
 ## Productivity
 - https://boostnote.io/ | Notes software for developers
