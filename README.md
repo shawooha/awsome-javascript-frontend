@@ -7,6 +7,7 @@
 - http://www.sublimetext.com/ | Sublime (lightweight text editor)
 - https://code.visualstudio.com/ | Visual Studio Code
 - https://atom.io/ | Atom
+- https://desktop.github.com/ | GitHub desktop
 
 ## Code and make examples online
 - https://codepen.io/ | CodePen
@@ -60,6 +61,7 @@ https://nicescroll.areaaperta.com/
 - https://www.khanacademy.org/computing/computer-programming
 - https://www.youtube.com/user/LevelUpTuts/playlists
 - https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ | freecodecamp youtube channel (lots of useful videos)
+- https://scrimba.com/ | learn code in browser
 
 ## Productivity
 - https://boostnote.io/ | Notes software for developers
