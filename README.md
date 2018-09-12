@@ -42,6 +42,7 @@
 - http://www.chartjs.org/ | Chart.js (canvas charts)
 - https://p5js.org/ | Visualisation library
 - https://prismjs.com/ | code highlight
+- http://interactjs.io/ | interact.js is a lightweight, standalone JavaScript module for handling single-pointer and multi-touch drags and gestures 
 
 ## Useful jQuery plugins
 
