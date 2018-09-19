@@ -46,10 +46,12 @@
 
 ## Useful jQuery plugins
 
-Plugin for jQuery to generate sparkline charts directly in the web browser https://omnipotent.net/jquery.sparkline/#s-about
+- Plugin for jQuery to generate sparkline charts directly in the web browser https://omnipotent.net/jquery.sparkline/#s-about
 
-Nicescroll jQuery Plugin – jQuery plugin for custom scrollbars on desktop and mobile browsers
+- Nicescroll jQuery Plugin – jQuery plugin for custom scrollbars on desktop and mobile browsers
 https://nicescroll.areaaperta.com/
+
+- Daterangepicker - http://www.daterangepicker.com/
 
 ## Learning
 - https://monsterlessons.com/ | Monster lessons (rus)
