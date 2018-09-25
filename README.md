@@ -24,6 +24,8 @@
 - https://www.muicss.com/ | MUI - Material Design CSS Framework
 - https://material-ui.com/
 - https://getmdl.io/
+- https://daneden.github.io/animate.css/ | css animations
+- https://github.com/graingert/wow | wow.js is a light-weight friend of animate.css
 
 ## JavaScript Framework (my choice)
 - https://reactjs.org/ | React
