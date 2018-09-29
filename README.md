@@ -46,6 +46,8 @@
 - https://prismjs.com/ | code highlight
 - http://interactjs.io/ | interact.js is a lightweight, standalone JavaScript module for handling single-pointer and multi-touch drags and gestures
 - https://www.mediaelementjs.com/ | HTML5 video and audio player with support for YouTube, SoundCloud, Facebook, Vimeo, HLS, Dash, and others
+- https://konvajs.github.io/docs/ | JavaScript 2d canvas library
+- https://projects.calebevans.me/jcanvas/ | jCanvas | jQuery meets the HTML5 canvas
 
 ## Useful jQuery plugins
 
@@ -73,8 +75,3 @@ https://nicescroll.areaaperta.com/
 
 ## Productivity
 - https://boostnote.io/ | Notes software for developers
-
-## Articles
-### JavaScript
-
-Demystifying DateTime Manipulation in JavaScript | Toptal https://www.toptal.com/software/definitive-guide-to-datetime-manipulation
