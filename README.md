@@ -56,6 +56,8 @@ https://nicescroll.areaaperta.com/
 
 - Daterangepicker - http://www.daterangepicker.com/
 
+- FullCalendar | https://fullcalendar.io/
+
 ## Learning
 - https://monsterlessons.com/ | Monster lessons (rus)
 - https://www.w3schools.com/ | W3Schools
