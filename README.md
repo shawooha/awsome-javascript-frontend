@@ -52,13 +52,11 @@
 ## Useful jQuery plugins
 
 - Plugin for jQuery to generate sparkline charts directly in the web browser https://omnipotent.net/jquery.sparkline/#s-about
-
 - Nicescroll jQuery Plugin – jQuery plugin for custom scrollbars on desktop and mobile browsers
 https://nicescroll.areaaperta.com/
-
 - Daterangepicker - http://www.daterangepicker.com/
-
 - FullCalendar | https://fullcalendar.io/
+- A plugin to make masks on form fields | http://igorescobar.github.io/jQuery-Mask-Plugin/
 
 ## Learning
 - https://monsterlessons.com/ | Monster lessons (rus)
@@ -75,3 +73,6 @@ https://nicescroll.areaaperta.com/
 
 ## Productivity
 - https://boostnote.io/ | Notes software for developers
+
+## Misc
+https://remarkableapp.github.io/ | Remarkable - markdown editor for Linux & Windows
