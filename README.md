@@ -7,6 +7,9 @@
 - http://www.sublimetext.com/ | Sublime (lightweight text editor)
 - https://code.visualstudio.com/ | Visual Studio Code
 - https://atom.io/ | Atom
+
+## GitHub tools
+
 - https://desktop.github.com/ | GitHub desktop
 
 ## Code and make examples online
