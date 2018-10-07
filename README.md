@@ -51,6 +51,7 @@
 - https://www.mediaelementjs.com/ | HTML5 video and audio player with support for YouTube, SoundCloud, Facebook, Vimeo, HLS, Dash, and others
 - https://konvajs.github.io/docs/ | JavaScript 2d canvas library
 - https://projects.calebevans.me/jcanvas/ | jCanvas | jQuery meets the HTML5 canvas
+- http://paperjs.org/ | Paper.js is an open source vector graphics scripting framework that runs on top of the HTML5 Canvas.
 
 ## Useful jQuery plugins
 
