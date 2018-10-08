@@ -40,6 +40,7 @@
 - https://datatables.net/ | Table plugin for jQuery
 - http://element.eleme.io/#/en-US | Vue
 - https://ant.design/ | React, Vue
+- https://getuikit.com/ | Uikit
 
 ## Useful JavaScript libraries
 - https://lodash.com/ | Lodash (objects/arrays/data)
