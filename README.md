@@ -29,12 +29,15 @@
 - https://getmdl.io/
 - https://daneden.github.io/animate.css/ | css animations
 - https://github.com/graingert/wow | wow.js is a light-weight friend of animate.css
+- http://svgjs.com/ | A lightweight library for manipulating and animating SVG
 
 ## JavaScript Framework (my choice)
 - https://reactjs.org/ | React
 - https://vuejs.org/ | Vue
 - https://hyperapp.js.org/ | Hyperapp
 - https://svelte.technology/ | Svelte
+- https://infernojs.org/ | An extremely fast React-like javascript library for building modern user interfaces.
+- https://preactjs.com/ | Preact: Fast 3kB alternative to React with the same modern API. Components & Virtual DOM.
 
 ## JavaScript UI components
 - https://datatables.net/ | Table plugin for jQuery
