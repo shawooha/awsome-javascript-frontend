@@ -28,8 +28,6 @@
 - https://material-ui.com/
 - https://getmdl.io/
 - https://daneden.github.io/animate.css/ | css animations
-- https://github.com/graingert/wow | wow.js is a light-weight friend of animate.css
-- http://svgjs.com/ | A lightweight library for manipulating and animating SVG
 
 ## JavaScript Framework (my choice)
 - https://reactjs.org/ | React
@@ -56,6 +54,8 @@
 - https://konvajs.github.io/docs/ | JavaScript 2d canvas library
 - https://projects.calebevans.me/jcanvas/ | jCanvas | jQuery meets the HTML5 canvas
 - http://paperjs.org/ | Paper.js is an open source vector graphics scripting framework that runs on top of the HTML5 Canvas.
+- https://github.com/graingert/wow | wow.js is a light-weight friend of animate.css
+- http://svgjs.com/ | A lightweight library for manipulating and animating SVG
 
 ## Useful jQuery plugins
 
