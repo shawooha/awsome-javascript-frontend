@@ -9,7 +9,7 @@
 - https://atom.io/ | Atom
 
 ## GitHub tools
-
+- https://www.gitkraken.com/ | Git GUI for Windows, Mac & Linux
 - https://desktop.github.com/ | GitHub desktop
 
 ## Code and make examples online
