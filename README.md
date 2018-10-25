@@ -56,6 +56,7 @@
 - http://paperjs.org/ | Paper.js is an open source vector graphics scripting framework that runs on top of the HTML5 Canvas.
 - https://github.com/graingert/wow | wow.js is a light-weight friend of animate.css
 - http://svgjs.com/ | A lightweight library for manipulating and animating SVG
+- https://sugarjs.com/ | Sugar - A Javascript utility library for working with native objects.
 
 ## Useful jQuery plugins
 
