@@ -39,11 +39,14 @@
 
 ## React component/etc
 https://www.styled-components.com/ | Styled components
+
 https://emotion.sh/ | The Next Generation of CSS-in-JS
+
 http://vulcanjs.org/ | The full-stack React+GraphQL framework
 
 ## Vue component/etc
 https://www.vuedarkmode.com/ | dark theme
+
 https://nuxtjs.org/ | Vue app framework (worth to see)
 
 ## JavaScript UI components
