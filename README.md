@@ -58,6 +58,7 @@ https://nuxtjs.org/ | Vue app framework (worth to see)
 ## Useful JavaScript libraries
 - https://lodash.com/ | Lodash (objects/arrays/data)
 - https://momentjs.com/ | Moment (date/time)
+- https://moment.github.io/luxon/ | Luxon. A powerful, modern, and friendly wrapper for Javascript dates and times.
 - http://www.chartjs.org/ | Chart.js (canvas charts)
 - https://p5js.org/ | Visualisation library
 - https://prismjs.com/ | code highlight
