@@ -70,6 +70,7 @@ https://nuxtjs.org/ | Vue app framework (worth to see)
 - https://github.com/graingert/wow | wow.js is a light-weight friend of animate.css
 - http://svgjs.com/ | A lightweight library for manipulating and animating SVG
 - https://sugarjs.com/ | Sugar - A Javascript utility library for working with native objects.
+- https://github.com/TarekRaafat/autoComplete.js | vanilla autocomplete library
 
 ## Useful jQuery plugins
 
