@@ -94,6 +94,9 @@ https://nicescroll.areaaperta.com/
 - https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ | freecodecamp youtube channel (lots of useful videos)
 - https://scrimba.com/ | learn code in browser
 
+## Online code editors
+- https://stackblitz.com/ | StackBlitz
+
 ## Productivity
 - https://boostnote.io/ | Notes software for developers
 
