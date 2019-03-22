@@ -8,9 +8,10 @@
 - https://code.visualstudio.com/ | Visual Studio Code
 - https://atom.io/ | Atom
 
-## GitHub tools
+## Git tools
 - https://www.gitkraken.com/ | Git GUI for Windows, Mac & Linux
 - https://desktop.github.com/ | GitHub desktop
+- https://www.sublimemerge.com/ | Git client from Sublime Text developers  
 
 ## Code and make examples online
 - https://codepen.io/ | CodePen
