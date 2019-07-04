@@ -29,6 +29,7 @@
 - https://material-ui.com/
 - https://getmdl.io/
 - https://daneden.github.io/animate.css/ | css animations
+https://tailwindcss.com/ | A utility-first CSS framework for rapidly building custom designs.
 
 ## JavaScript Framework (my choice)
 - https://reactjs.org/ | React
