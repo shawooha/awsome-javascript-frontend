@@ -35,7 +35,7 @@
 - https://reactjs.org/ | React
 - https://vuejs.org/ | Vue
 - https://hyperapp.js.org/ | Hyperapp
-- https://svelte.technology/ | Svelte
+- https://svelte.dev/ | Svelte
 - https://infernojs.org/ | An extremely fast React-like javascript library for building modern user interfaces.
 - https://preactjs.com/ | Preact: Fast 3kB alternative to React with the same modern API. Components & Virtual DOM.
 
