@@ -40,16 +40,14 @@
 - https://preactjs.com/ | Preact: Fast 3kB alternative to React with the same modern API. Components & Virtual DOM.
 
 ## React component/etc
-https://www.styled-components.com/ | Styled components
-
-https://emotion.sh/ | The Next Generation of CSS-in-JS
-
-http://vulcanjs.org/ | The full-stack React+GraphQL framework
+- https://material-ui.com/ | Material UI
+- https://www.styled-components.com/ | Styled components
+- https://emotion.sh/ | The Next Generation of CSS-in-JS
+- http://vulcanjs.org/ | The full-stack React+GraphQL framework
 
 ## Vue component/etc
-https://www.vuedarkmode.com/ | dark theme
-
-https://nuxtjs.org/ | Vue app framework (worth to see)
+- https://www.vuedarkmode.com/ | dark theme
+- https://nuxtjs.org/ | Vue app framework (worth to see)
 
 ## JavaScript UI components
 - https://datatables.net/ | Table plugin for jQuery
