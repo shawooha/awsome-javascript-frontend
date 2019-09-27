@@ -49,6 +49,7 @@
 - https://www.vuedarkmode.com/ | dark theme
 - https://nuxtjs.org/ | Vue app framework (worth to see)
 - https://lusaxweb.github.io/vuesax/ | Vuesax
+- https://buefy.org/ | Lightweight UI components for Vue.js based on Bulma
 
 ## JavaScript UI components
 - https://datatables.net/ | Table plugin for jQuery
