@@ -44,6 +44,7 @@
 - https://www.styled-components.com/ | Styled components
 - https://emotion.sh/ | The Next Generation of CSS-in-JS
 - http://vulcanjs.org/ | The full-stack React+GraphQL framework
+- http://tabler-react.com/ | dashboard template with responsive and high quality UI
 
 ## Vue component/etc
 - https://www.vuedarkmode.com/ | dark theme
