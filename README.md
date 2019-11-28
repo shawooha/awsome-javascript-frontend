@@ -39,6 +39,9 @@
 - https://infernojs.org/ | An extremely fast React-like javascript library for building modern user interfaces.
 - https://preactjs.com/ | Preact: Fast 3kB alternative to React with the same modern API. Components & Virtual DOM.
 
+## Data structures
+- https://listjs.com/ | Tiny, invisible and simple, yet powerful and incredibly fast vanilla JavaScript that adds search, sort, filters and flexibility to plain HTML lists, tables, or anything.  
+
 ## React component/etc
 - https://material-ui.com/ | Material UI
 - https://www.styled-components.com/ | Styled components
