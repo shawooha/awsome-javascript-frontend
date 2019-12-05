@@ -48,6 +48,8 @@
 - https://emotion.sh/ | The Next Generation of CSS-in-JS
 - http://vulcanjs.org/ | The full-stack React+GraphQL framework
 - http://tabler-react.com/ | dashboard template with responsive and high quality UI
+- https://github.com/final-form/react-final-form | manage forms in React
+- https://jaredpalmer.com/formik/ | React forms
 
 ## Vue component/etc
 - https://www.vuedarkmode.com/ | dark theme
