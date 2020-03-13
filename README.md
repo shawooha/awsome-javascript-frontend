@@ -34,7 +34,6 @@
 ## JavaScript Framework (my choice)
 - https://reactjs.org/ | React
 - https://vuejs.org/ | Vue
-- https://hyperapp.dev/ | Hyperapp
 - https://svelte.dev/ | Svelte
 - https://infernojs.org/ | An extremely fast React-like javascript library for building modern user interfaces.
 - https://preactjs.com/ | Preact: Fast 3kB alternative to React with the same modern API. Components & Virtual DOM.
